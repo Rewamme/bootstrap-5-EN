@@ -1,8 +1,8 @@
 # Bootstrap 5 Course
 
-Welcome to the GitHub for the "Portfolio" project linked with the [OpenClassrooms course on Bootstrap 5](https://openclassrooms.com/fr/courses/6391096-creez-des-sites-web-responsive-avec-bootstrap-4)!
+Welcome to the GitHub for the "Portfolio" project linked to the [OpenClassrooms course on Bootstrap 5](https://openclassrooms.com/fr/courses/6391096-creez-des-sites-web-responsive-avec-bootstrap-4)!
 
-![The San Juan Mountains are beautiful!](/docs/img/final.jpg "Screenshot du projet fil rouge \"Portfolio\"")
+![The San Juan Mountains are beautiful!](/docs/img/final.jpg "Screenshot of the \"Portfolio\" project")
 
 ## Contents
 
@@ -18,27 +18,27 @@ Welcome to the GitHub for the "Portfolio" project linked with the [OpenClassroom
   - Quiz: Create Responsive Layouts
 - Part 3
   - Chapter 1: Customize Your Page
-  - Chapter 2: Créez de la navigation responsive
-  - Chapter 3: Ajoutez le composant progress bar
-  - Chapter 4: Structurez du contenu grâce au composant card
+  - Chapter 2: Create Responsive Navigation
+  - Chapter 3: Add a Progress Bar Component
+  - Chapter 4: Structure Your Content with the Card Component
   - Quiz: Display Content Using UI Components
 - Part 4
-  - Chapter 1: Ajoutez des composants interactifs
-  - Chapter 2: Permettez à vos visiteurs de vous contacter grâce aux formulaires
-  - Chapter 3: Améliorez l’expérience utilisateur avec une modal et les tooltips
-  - Quiz: Ajouter de l'interactivité à votre site
+  - Chapter 1: Add Interactive Components
+  - Chapter 2: Add Contact Forms
+  - Chapter 3: Improve User Experience with Modals and Tooltips
+  - Quiz: Add Interactivity to Your Website
 - Part 5
-  - Chapter 1: Créez votre propre thème de conception
-  - Chapter 2: Créez vos propres classes utilitaires grâce à l’API de Bootstrap 5
-  - Quiz: Créer des fonctionnalités et des thèmes personnalisés
+  - Chapter 1: Create Your Own Design Theme
+  - Chapter 2: Create Your Own Utility Classes with the Bootstrap 5 API
+  - Quiz: Create Your Own Features and Themes
 
-> ### Félicitations 🎉 ! Vous avez terminé le cours Bootstrap 5
+> ### Congratulations! 🎉 You've finished the Bootstrap 5 course!
 
-## Solutions des exercices
+## Solutions to the exercises
 
-Toutes les étapes (par chapitre) du projet fil rouge sont accessibles via ce lien : [solutions](https://openclassrooms-student-center.github.io/cours-Bootstrap-5/)
+All stages (by chapter) of the project can be accessed via this link: [solutions](https://openclassrooms-student-center.github.io/cours-Bootstrap-5/)
 
-## Contributing
+## Contributors
 
 - Benoît Philibert
 - Max Mahmoud Wardeh
@@ -47,4 +47,4 @@ Toutes les étapes (par chapitre) du projet fil rouge sont accessibles via ce li
 
 ## License
 
-Propriétaire : [OpenClassrooms](https://openclassrooms.com/fr/)
+Owner: [OpenClassrooms](https://openclassrooms.com/fr/)
